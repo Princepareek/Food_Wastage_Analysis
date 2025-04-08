@@ -72,8 +72,7 @@ Interact with filters to explore department-wise and time-based waste
 
 Use insights to drive actionable business decisions
 
-🙋‍♂️ Author
-Your Name
-📧 your.email@example.com
-🔗 LinkedIn
-🔗 GitHub
+🙋‍♂️ Contact
+prince parrek
+📧 princepareek29@gmail.com
+
