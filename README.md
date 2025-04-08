@@ -1,4 +1,5 @@
 ♻️ Food Wastage Analysis Dashboard
+
 A data analysis project aimed at uncovering patterns in food waste within a company, identifying departments with the highest waste, and enabling data-driven decisions to reduce losses and improve efficiency.
 
 📌 Project Overview
